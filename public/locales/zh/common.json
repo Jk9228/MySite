@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "brand": "個人檔案",
+    "home": "首頁",
+    "about": "關於我",
+    "portfolio": "作品集",
+    "contact": "聯絡資訊"
+  },
+  "home": {
+    "title": "歡迎來到我的自我介紹網頁！",
+    "welcome": "您好，我是您碩士推甄的最佳人選之一，這裡將介紹我的背景、專案與聯絡方式。"
+  },
+  "about": {
+    "title": "關於我",
+    "description": "來自國立雲林科技大學資訊工程系，有軟體開發、AI與設計背景，樂於學習與分享。"
+  },
+  "portfolio": {
+    "title": "作品集",
+    "intro": "以下為我的作品集與 GitHub 連結，歡迎點選參考。",
+    "github": "查看更多公開原始碼與專案，請前往我的 GitHub。"
+  },
+  "contact": {
+    "title": "聯絡資訊",
+    "email": "電郵",
+    "github": "GitHub",
+    "phone": "手機號碼"
+  }
+}
+

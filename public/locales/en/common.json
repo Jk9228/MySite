@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "brand": "Profile Site",
+    "home": "Home",
+    "about": "About Me",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Welcome to My Self-Introduction Website!",
+    "welcome": "Hello, I am one of the best candidates for graduate school recommendation. Here you will find my background, portfolio, and contact info."
+  },
+  "about": {
+    "title": "About Me",
+    "description": "From Department of Computer Science and Information Engineering, National Yunlin University of Science and Technology. Experienced in software development, AI, and design. Eager to learn and share."
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "intro": "Below are my projects and GitHub link. Feel free to check them out!",
+    "github": "For more public code and projects, please refer to my GitHub."
+  },
+  "contact": {
+    "title": "Contact Information",
+    "email": "Email",
+    "github": "GitHub",
+    "phone": "Phone Number"
+  }
+}
+

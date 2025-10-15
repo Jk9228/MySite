@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "brand": "Profile Site",
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Welcome to My Self-Introduction Website!",
+    "welcome": "Hello, I am one of your best graduate school candidates. Here you can find my background, projects, and contact info."
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Briefly introduce your education, interests, skills and personal characteristics here. For example: From YunTech, with experience in software development, AI and design, eager to learn and share."
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "intro": "Below are my projects and GitHub links. Feel free to check them out!",
+    "github": "View more public code and projects on my GitHub."
+  },
+  "contact": {
+    "title": "Contact Information",
+    "email": "Email",
+    "github": "GitHub"
+  }
+}
+
