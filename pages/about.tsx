@@ -55,12 +55,12 @@ export default function About() {
       desc: '我的志工基礎結業證書',
     },
     {
-      src: '/assets/certificates/Chinese_Taipei_International_Sport_Volunteer_Association_10807.JPG',
+      src: '/assets/certificates/Chinese_Taipei_International_Sport_Volunteer_Association_10807.jpg',
       title: '體育志工',
       desc: '我的體育志工研習證書',
     },
     {
-      src: '/assets/certificates/Chinese_Taipei_International_Sport_Volunteer_Association_10807.JPG',
+      src: '/assets/certificates/ceremonial_corps—_10912.JPG',
       title: '儀隊參賽',
       desc: '我的儀隊參賽證明',
     },
