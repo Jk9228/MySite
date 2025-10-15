@@ -15,7 +15,7 @@ export default function About() {
   // 證書資料，可依需求新增
   const certificates = [
     {
-      src: '/assets/certificates/CPE通過證明.jpg',
+      src: '/assets/certificates/CPE_passed.jpg',
       title: 'CPE 檢定證書',
       desc: '通過 CPE 檢定考試。',
     },
@@ -25,42 +25,42 @@ export default function About() {
       desc: 'ARM Cortex M4F PIC32CX-SG Microcontroller, MCC Harmony and AI Code Assistant Training 研習證書',
     },
     {
-      src: '/assets/certificates/11103 TOEIC第二次多益成績JPG拷貝.jpg',
+      src: '/assets/certificates/TOEIC_11103.jpg',
       title: 'TOEIC 測驗',
       desc: 'TOEIC成績：425分。',
     },
     {
-      src: '/assets/certificates/10910全民中檢-1.jpg',
+      src: '/assets/certificates/Certificate_of_National_Chinese_Proficiency.jpg',
       title: '全民中檢測驗',
       desc: '全民中檢中高等通過證書',
     },
     {
-      src: '/assets/certificates/數乙證照正面.jpg',
+      src: '/assets/certificates/front_Digital_Electronics_Class_B.jpg',
       title: '數位電子乙級',
       desc: '我的數位電子乙級證照。',
     },
     {
-      src: '/assets/certificates/室丙證照正面.jpg',
+      src: '/assets/certificates/front_Commercial_Wiring_Class_C.jpg',
       title: '室內配線丙級',
       desc: '我的室內配線丙級證照',
     },
     {
-      src: '/assets/certificates/10908丙級技術證-正面.jpg',
+      src: '/assets/certificates/front_Industrial_Electronics_Class_C_10908.jpg',
       title: '工業電子丙級',
       desc: '我的工業電子丙級證照',
     },
     {
-      src: '/assets/certificates/10910志工基礎.jpg',
+      src: '/assets/certificates/volunteer_basic_10910.jpg',
       title: '基礎志工',
       desc: '我的志工基礎結業證書',
     },
     {
-      src: '/assets/certificates/10807體育志工.jpg',
+      src: '/assets/certificates/Chinese_Taipei_International_Sport_Volunteer_Association_10807.jpg',
       title: '體育志工',
       desc: '我的體育志工研習證書',
     },
     {
-      src: '/assets/certificates/10912儀隊參賽.jpg',
+      src: '/assets/certificates/Chinese_Taipei_International_Sport_Volunteer_Association_10807.jpg',
       title: '儀隊參賽',
       desc: '我的儀隊參賽證明',
     },
