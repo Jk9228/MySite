@@ -26,10 +26,9 @@ export default function Portfolio() {
             imageSrc="/assets/portfolio/device-info.png"
           />
           <PortfolioCard
-            title="網站測試作品"
-            description="用Next.js打造的個人網站，響應式設計、含多國語言（範例展示）。"
-            url="https://your-other-project-link"
-            imageSrc="/assets/portfolio/website-demo.jpg"
+            title="DeviceInfo version 2"
+            description="這是既上一個版本後改良出來的新版介面（範例展示）。"
+            imageSrc="device-info-v2.png"
           />
           {/* 依需求新增更多作品展示 */}
         </div>
