@@ -47,7 +47,7 @@ export default function About() {
     {
       src: '/assets/certificates/front_Industrial_Electronics_Class_C_10908.JPG',
       title: '工業電子丙級',
-      desc: '我的工業電子丙級證照',
+      desc: '我的工業電子丙級證照。',
     },
     {
       src: '/assets/certificates/volunteer_basic_10910.JPG',
