@@ -28,7 +28,7 @@ export default function Portfolio() {
           <PortfolioCard
             title="DeviceInfo ver.2"
             description="這是既上一個版本後改良出來的新版介面（範例展示）。"
-            imageSrc="device-info-v2.png"
+            imageSrc="/assets/portfolio/device-info-v2.png"
           />
           {/* 依需求新增更多作品展示 */}
         </div>
