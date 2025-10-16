@@ -10,20 +10,20 @@ export default function Contact() {
       <Navbar />
       <main className="flex flex-col items-center min-h-screen bg-gradient-to-b from-blue-50 to-yellow-50 pt-8">
         {/* 主要標題 */}
-        <FadeInUp delay={0.2}>
+        <FadeInUp delay={0.01}>
           <h1 className="text-5xl font-bold mt-8 mb-6 text-red-800 text-center">
             {t('contact.title')}
           </h1>
         </FadeInUp>
 
-        <FadeInUp delay={0.4}>
+        <FadeInUp delay={0.03}>
           <p className="text-xl text-gray-700 max-w-2xl text-center mb-12 leading-relaxed">
             歡迎與我聯繫！我樂於討論技術、合作機會或任何有趣的專案。
           </p>
         </FadeInUp>
 
         {/* 聯絡資訊卡片 */}
-        <FadeInUp delay={0.6}>
+        <FadeInUp delay={0.05}>
           <div className="bg-white rounded-2xl shadow-xl p-8 max-w-4xl mx-4 mb-12 w-full">
             <h2 className="text-3xl font-bold text-center text-gray-800 mb-8">聯絡方式</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -105,7 +105,7 @@ export default function Contact() {
         </FadeInUp>
 
         {/* 回應時間說明 */}
-        <FadeInUp delay={0.7}>
+        <FadeInUp delay={0.07}>
           <div className="bg-white rounded-2xl shadow-xl p-8 max-w-4xl mx-4 mb-12">
             <h2 className="text-2xl font-bold text-center text-gray-800 mb-6">回應時間</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -129,7 +129,7 @@ export default function Contact() {
         </FadeInUp>
 
         {/* 其他資訊 */}
-        <FadeInUp delay={0.8}>
+        <FadeInUp delay={0.09}>
           <div className="bg-white rounded-2xl shadow-xl p-8 max-w-4xl mx-4 mb-12">
             <h2 className="text-2xl font-bold text-center text-gray-800 mb-6">其他資訊</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
