@@ -10,20 +10,20 @@ export default function Home() {
       <Navbar />
       <main className="flex flex-col items-center min-h-screen bg-gradient-to-b from-blue-50 to-yellow-50 pt-8">
         {/* 主要標題區域 */}
-        <FadeInUp delay={0.2}>
+        <FadeInUp delay={0.01}>
           <h1 className="text-5xl font-bold mt-8 mb-6 text-blue-800 text-center">
             {t('home.title')}
           </h1>
         </FadeInUp>
         
-        <FadeInUp delay={0.4}>
+        <FadeInUp delay={0.03}>
           <p className="text-xl text-gray-700 max-w-2xl text-center mb-12 leading-relaxed">
             {t('home.welcome')}
           </p>
         </FadeInUp>
 
         {/* 個人簡介卡片 */}
-        <FadeInUp delay={0.6}>
+        <FadeInUp delay={0.05}>
           <div className="bg-white rounded-2xl shadow-xl p-8 max-w-4xl mx-4 mb-12">
             <div className="flex flex-col md:flex-row items-center gap-8">
               <div className="flex-shrink-0">
@@ -59,7 +59,7 @@ export default function Home() {
         </FadeInUp>
 
         {/* 快速導航 */}
-        <FadeInUp delay={0.8}>
+        <FadeInUp delay={0.07}>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-4 mb-12">
             <a 
               href="/about" 
@@ -91,7 +91,7 @@ export default function Home() {
         </FadeInUp>
 
         {/* 技能展示 */}
-        <FadeInUp delay={0.01}>
+        <FadeInUp delay={0.09}>
           <div className="bg-white rounded-2xl shadow-xl p-8 max-w-4xl mx-4 mb-12">
             <h2 className="text-3xl font-bold text-center text-gray-800 mb-8">核心技能</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
