@@ -91,7 +91,7 @@ export default function Home() {
         </FadeInUp>
 
         {/* 技能展示 */}
-        <FadeInUp delay={1.0}>
+        <FadeInUp delay={0.01}>
           <div className="bg-white rounded-2xl shadow-xl p-8 max-w-4xl mx-4 mb-12">
             <h2 className="text-3xl font-bold text-center text-gray-800 mb-8">核心技能</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
