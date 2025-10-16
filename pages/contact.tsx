@@ -105,7 +105,7 @@ export default function Contact() {
         </FadeInUp>
 
         {/* 回應時間說明 */}
-        <FadeInUp delay={0.8}>
+        <FadeInUp delay={0.7}>
           <div className="bg-white rounded-2xl shadow-xl p-8 max-w-4xl mx-4 mb-12">
             <h2 className="text-2xl font-bold text-center text-gray-800 mb-6">回應時間</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
