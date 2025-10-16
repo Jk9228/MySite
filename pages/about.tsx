@@ -22,7 +22,7 @@ export default function About() {
     {
       src: '/assets/certificates/20251015_044235.jpg',
       title: '微控制器校園菁英班研習證書',
-      desc: 'ARM Cortex M4F PIC32CX-SG Microcontroller, MCC Harmony and AI Code Assistant Training 研習證書',
+      desc: 'ARM Cortex M4F PIC32CX-SG Microcontroller, MCC Harmony and AI Code Assistant Training 研習證書。',
     },
     {
       src: '/assets/certificates/TOEIC_11103.JPG',
@@ -32,7 +32,7 @@ export default function About() {
     {
       src: '/assets/certificates/Certificate_of_National_Chinese_Proficiency.JPG',
       title: '全民中檢測驗',
-      desc: '全民中檢中高等通過證書',
+      desc: '全民中檢中高等通過證書。',
     },
     {
       src: '/assets/certificates/front_Digital_Electronics_Class_B.JPG',
@@ -42,7 +42,7 @@ export default function About() {
     {
       src: '/assets/certificates/front_Commercial_Wiring_Class_C.JPG',
       title: '室內配線丙級',
-      desc: '我的室內配線丙級證照',
+      desc: '我的室內配線丙級證照。',
     },
     {
       src: '/assets/certificates/front_Industrial_Electronics_Class_C_10908.JPG',
@@ -52,17 +52,17 @@ export default function About() {
     {
       src: '/assets/certificates/volunteer_basic_10910.JPG',
       title: '基礎志工',
-      desc: '我的志工基礎結業證書',
+      desc: '我的志工基礎結業證書。',
     },
     {
       src: '/assets/certificates/Chinese_Taipei_International_Sport_Volunteer_Association_10807.JPG',
       title: '體育志工',
-      desc: '我的體育志工研習證書',
+      desc: '我的體育志工研習證書。',
     },
     {
       src: '/assets/certificates/ceremonial_corps—_10912.JPG',
       title: '儀隊參賽',
-      desc: '我的儀隊參賽證明',
+      desc: '我的儀隊參賽證明。',
     },
   ];
 
